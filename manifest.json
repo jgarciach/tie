@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Time Investment Estimation for Pocket",
+  "description": "This extension estimates how long it would take to read an article in pocket.",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["http://*.getpocket.com/a/*"],
+      "js": ["jquery-2.1.1.js", "spices.js"]
+    }
+  ]
+
+}
