@@ -6,7 +6,7 @@ When you open an article in pocket, tie automatically adds under the article's t
 
 ##Using tie
 Tie is a chrome extension. 
-You must use Chrome as your browser. ![Download Chrome](https://www.google.com/chrome/browser/)
+You must use Chrome as your browser. [Download Chrome](https://www.google.com/chrome/browser/)
 ###Download the extension
 Clone this repository to your computer.
 Copy paste this into your terminal:
