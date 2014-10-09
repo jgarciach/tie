@@ -1,9 +1,16 @@
 #tie
 Time Invesment Estimation for Pocket
 
-##Use the extension
+##About
+When you open an article in pocket, tie automatically adds under the article's title an estimation of how long it would take you to read that article. Tie assumes a reading speed of 200 wpm.
+
+##Using tie
+Tie is a chrome extension. 
+You must use Chrome as your browser. ![Download Chrome](https://www.google.com/chrome/browser/)
 ###Download the extension
-Clone repository to your computer: `git clone https://github.com/jgarciach/tie.git`
+Clone this repository to your computer.
+Copy paste this into your terminal:
+`git clone https://github.com/jgarciach/tie.git`
 ###Load the extension
 Extensions that you download from the Chrome Web Store are packaged up as `.crx` files, which is great for distribution, but not so great for development. Recognizing this, Chrome gives you a quick way of loading up your working directory for testing. Let's do that now.
 
